@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## This homework has implemented context to handle all the data between parent and child component
 App.js -- parent component
+
 Cell.js -- child component
+
 CellContext -- context
 
 
